@@ -1,0 +1,4 @@
+db.url=jdbc:mysql://localhost:3306/artmark?serverTimezone=UTC
+db.username=PUNE_AICI_USERUL_TAU
+db.password=PUNE_AICI_PAROLA_TA
+db.driver=com.mysql.cj.jdbc.Driver
